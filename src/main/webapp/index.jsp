@@ -7,6 +7,6 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Welcome to My first Project</h2>
+<h2>Welcome to My first Project on 05-Aug-2020</h2>
 </body>
 </html>
