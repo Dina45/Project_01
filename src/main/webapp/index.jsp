@@ -7,6 +7,6 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Welcome to My first Project in Jenkins Home directory</h2>
+<h2>Welcome to All</h2>
 </body>
 </html>
