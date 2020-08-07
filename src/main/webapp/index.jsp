@@ -7,7 +7,7 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Maven Project is completed ....Thanks</h2>
-<h2>Welcome to All</h2>
+<h1>Welcome to Maven Project</h1>
+<h2>Thanks</h2>
 </body>
 </html>
