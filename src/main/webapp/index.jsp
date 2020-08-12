@@ -9,5 +9,6 @@ String version=resource.getString("version");%>
 <body>
 <h1>Welcome to Maven Project</h1>
 <h2>The Chef Project</h2>
+<h3>Welcome All <h3>
 </body>
 </html>
